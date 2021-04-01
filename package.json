@@ -1,0 +1,28 @@
+{
+  "name": "download-mp3",
+  "version": "1.0.0",
+  "description": "Download english mp3 from https://basicenglishspeaking.com/",
+  "main": "downloadMp3.js",
+  "scripts": {
+    "start": "node downloadMp3.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  },
+  "keywords": [
+    "mp3",
+    "download",
+    "nodejs",
+    "download",
+    "mp3"
+  ],
+  "author": "VietNT",
+  "license": "MIT"
+}
